@@ -20,3 +20,10 @@ Run things:
 ```
 ./runner.py
 ```
+
+
+# refactor_demo
+To see normal output, use the -s flag to pytest:
+```
+pytest -s refactor_demo/start_test.py 
+```
